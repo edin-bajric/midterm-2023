@@ -1,3 +1,3 @@
 GITHUB URL: https://github.com/edin-bajric/midterm-2023.git
 
-APP URL: 
+APP URL: midterm-2023-production.up.railway.app
